@@ -1,16 +1,13 @@
-### Hi there 👋
+## Junior Front-end developer
 
-<!--
-**Juzete/juzete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=for-the-badge&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-555?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-555?style=for-the-badge&logo=html5)![CSS](https://img.shields.io/badge/-CSS-555?style=for-the-badge&logo=css3)![SCSS](https://img.shields.io/badge/-SCSS-555?style=for-the-badge&logo=sass)
+![React](https://img.shields.io/badge/-React-555?style=for-the-badge&logo=react)![Redux](https://img.shields.io/badge/-Redux-555?style=for-the-badge&logo=redux)![FireBase](https://img.shields.io/badge/-FireBase-555?style=for-the-badge&logo=firebase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-555?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juzete/)[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-555?style=for-the-badge&logo=vk)](https://vk.com/m.korzenok)[![GMAIL](https://img.shields.io/badge/-GMAIL-555?style=for-the-badge&logo=gmail)](mailto:juzete.pgm@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juzete&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
