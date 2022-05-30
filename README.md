@@ -1,4 +1,4 @@
-## Junior Front-end developer
+## Front-end developer
 
 ### Languages and Tools
 
